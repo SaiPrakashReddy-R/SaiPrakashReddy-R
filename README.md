@@ -1,32 +1,34 @@
 # Hello, I'm Sai Prakash Reddy Rao! 👋
 
-🔧 **Java Developer | Full Stack Engineer | Open Source Enthusiast**
+🔧 **GenAI Engineer | Machine Learning Engineer | Workday Developer**
 
 ---
 
 ### 💻 About Me:
-I'm a results-driven Java Developer with over 2 years of experience in designing and maintaining robust applications. I excel in using Java SE/EE, Spring, Hibernate, and RESTful services to build scalable and efficient solutions. My passion for coding extends to data structures, algorithms, and Agile methodologies. I thrive in cross-functional collaboration and am always eager to learn new technologies to enhance development processes.
+AI Engineer focused on Generative AI, Retrieval-Augmented Generation (RAG), and agentic systems.
 
----
+I design and build production-grade AI systems, not toy demos — from asynchronous data ingestion and vector pipelines to multi-agent orchestration and hallucination-resistant LLM workflows.
 
-### 🔍 Interests:
-- **Development**: Full-Stack Development, Microservices, Cloud Computing
-- **Languages**: Java, Python, SQL, C, Linux
-- **Frameworks & Tools**: Spring Boot, Angular, React, Hibernate, JUnit, Jenkins, Git, Maven, Kafka, AWS
+Currently a Graduate Research Assistant at Kennesaw State University, where I’m building an LLM-powered university support chatbot using RAG, LangChain-style orchestration, pgvector, and streaming inference. Previously worked as a Machine Learning Engineer at TCS, delivering enterprise GenAI solutions for real clients.
 
----
+What I actually work on
 
-### 🌱 Currently Learning:
-- Kafka
-- Hadoop
+🔹 Retrieval-Augmented Generation (RAG) systems
 
----
+🔹 Agentic AI & tool-using LLM workflows
 
-### 🚀 Projects:
-Here are some projects I've worked on:
-- **DBS Paylah Payment Service**: Engineered RESTful APIs serving 2 million users, improving transaction efficiency.
-- **Fraud Data Processing System**: Implemented changes across 15+ APIs, enhancing data processing efficiency.
-- **AWS Data Storage**: Developed a Spring Boot batch job for fraudulent data handling, reducing manual efforts.
+🔹 Vector databases, embeddings, semantic search
+
+🔹 Async ETL pipelines for unstructured data
+
+🔹 Production APIs with FastAPI & Streamlit
+
+Tech stack
+
+Python · LangChain · LlamaIndex · OpenAI · Hugging Face · pgvector · FastAPI · Docker · AWS · Azure
+
+📌 Research focus: Hybrid chatbots, hallucination mitigation, and scalable GenAI architectures
+📄 Published at ISCAP 2025 on hybrid chatbot design for academic systems
 
 ---
 
